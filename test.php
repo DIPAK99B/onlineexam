@@ -121,7 +121,6 @@
       <a href="https://in.linkedin.com/in/dipak-bansode-213bbb152" class="btn-btn-primary">Contact Us</a>
       <a href="#" class="btn-btn-primary1">Whatsapp</a>
       <a href="https://www.youtube.com/channel/UCZj1CTt3azBgRiTIJTCInbw" class="btn-btn-primary2">Youtube</a>
-      <a href="#" class="btn-btn-primary3">Admin</a>
     </div>
     <div class="card-footer text-muted">
       Made by Dipak Bansode @ 2021

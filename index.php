@@ -60,7 +60,7 @@
 <div class="flex">
 <?php
 $c = 1;
-while($c <= 5) {  
+while($c <= 4) {  
     echo '<div class="Hindi">';
       echo '<h1>Cell biology 1 Test Name here!</h1>';
       echo '<a href="test.php" class="Free-Test">Free Test</a>';
